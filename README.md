@@ -2,6 +2,8 @@
 
 ### This is the coming soon page for the website of NexusPunkTech.
 
+Check out the live app here: https://nexuspunktech.agency
+
 ## Overview
 This simple coming soon page lets visitors know that the NexusPunkTech website is currently under construction. It includes:
 
@@ -13,4 +15,7 @@ This simple coming soon page lets visitors know that the NexusPunkTech website i
 #### * Hosted on Netlify for fast performance.
 #### * Minimal modern aesthetics and animation.
 
+
 ![Website Screenshot](/NexusPunkTech/assets/images/Screenshot.png)
+
+
