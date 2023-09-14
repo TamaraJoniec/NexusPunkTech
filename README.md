@@ -16,6 +16,6 @@ This simple coming soon page lets visitors know that the NexusPunkTech website i
  * Minimal modern aesthetics and animation.
 
 
-![Website Screenshot](/NexusPunkTech/assets/screenshot.png)
+![Website Screenshot](./assets/screenshot.png)
 
 
